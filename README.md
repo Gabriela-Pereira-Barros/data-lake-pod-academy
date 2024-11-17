@@ -14,3 +14,5 @@ O Data Lake possui a seguinte arquitetura:
 
 
 Para conhecer mais sobre o desenvolvimento do projeto acesse o artigo do Medium em:
+
+https://medium.com/@gabriela-pereira-barros/data-lake-pod-academy-260c665261ed
